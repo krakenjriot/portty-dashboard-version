@@ -1,0 +1,10 @@
+<?php return array (
+  'email' => 'bendavid@yahoo.com',
+  'pass' => 'c4ca4238a0b923820dcc509a6f75849b',
+  'fname' => 'Ben',
+  'lname' => 'David',
+  'ipaddress' => '192.168.100.2',
+  'server_refresh_sec' => '3',
+  'board_name_monitored' => 'kvR7dAEadTcui2TH',
+  'filter_pins_by_board' => 'VHXzBpoVfdu4R4uC',
+);
